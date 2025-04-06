@@ -22,6 +22,14 @@ personalised offers
 - Reducеd maintenance expenditures by 18% by analyzing and optimizing equipment maintenance costs
 - Built interactive management dashboards that showed important metrics, resulting in a 25% increase in decision-making speed
 
+**Branch Director @ Kaz Black Star LLP (_January 2021 - September 2023_)**
+- Conducted regular analysis of sales and customer activity, identified growth points and developed solutions that increased revenue by 13% in the first year and by 17% in the second
+- Created and maintained analytical reports on key indicators (revenue, average bill, traffic, product losses), optimized reporting processes
+- Developed a system for monitoring balances and orders, which allowed to reduce product write-offs by 25%
+- Analyzed customer feedback, identified the causes of dissatisfaction, thereby reducing the number of complaints by 30% and in creasing the satisfaction index from
+70% to 95%
+- Developed KPIs for the team, analyzed the implementation of plans and formed recommendations for improving the work of the branch
+
 ## Projects
 ### "Research and optimization of delivery processes based on the analysis of logistic data"
 
