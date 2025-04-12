@@ -32,7 +32,7 @@ personalised offers
 
 ## Projects
 ### "Research and optimization of delivery processes based on the analysis of logistic data"
-📂 [View GitHub Repository](https://github.com/TuringAJ/project_logistic_analysis)
+📂 [View the Project on GitHub](https://github.com/TuringAJ/project_logistic_analysis)
 
 Project provided a comprehensive assessment of the potential of using machine learning and data analytics approaches to optimize logistics operations. The study included both theoretical and practical components, allowing to gain a deeper understanding of the fundamentals of logistics processes and develop successful optimization solutions.
 The practical part of the study included structuring and studying the logistics company's data using visualization and correlation analysis methods. The data was collected and pre-processed, critical parameters affecting delivery procedures were identified, and various graphs and charts were created to visually present the information. Analysis of correlations between numerous criteria helped identify critical elements affecting delivery time and cost.
