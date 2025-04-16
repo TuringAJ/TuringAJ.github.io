@@ -1,6 +1,13 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Power BI, Tableau, DataLens, Excel
+## Skills
+- Data Manipulation and Processing: Python (Pandas, NumPy), SQL (DML, DDL, CTE, JOINs), Excel, Google Sheets
+- Data Visualization: Matplotlib, Seaborn
+- Statistical Analysis (Descriptive, Hypothesis testing, A/B testing)
+- Machine Learning: Regression, Clustering (Scikit-learn, TensorFlow)
+- Model Deployment: Streamlit, Flask
+- BI and Reporting: Power BI, Tableau, DataLens
+- Strong Communication and Team Collaboration
 
 ## Education						       		
 - MSc Strategic Engineering	| The University of Genoa (_March 2025_)	 			        		
@@ -8,27 +15,29 @@
 
 ## Work Experience
 **Sales Analyst @ Databoom LLP (_June 2022 - Present_)**
-- Analysed the sales funnel and key indicators (conversion, average check, LTV, CAC), optimised the customer interaction strategy
-- Created a system for tracking transaction dynamics, which allowed to increase the conversion from lead to sale by 32%
-- Developed a customer segmentation method based on data on purchasing behaviour, which helped to increase the average check by 15% through
-personalised offers
-- Analysed the effectiveness of marketing channels and interactions, identifying bottlenecks and suggesting improvements
-- Implemented reporting on the fulfilment of sales plans, which increased the transparency of work and allowed to reach 155% of the plan in January
+- Analyzed the sales funnel and key metrics (conversion, average check, LTV, CAC), optimized the customer interaction strategy
+- Automated reports in Google Sheets and AMO CRM, set up dashboards to track the performance of managers
+- Built a transaction tracking system that increased lead-to-sale conversion by 32%
+- Developed customer segmentation based on purchasing behavior, increasing average check by 15% through personalized offers
+- Assessed marketing channel effectiveness and identified bottlenecks, providing actionable improvements
+- Implemented sales plan performance reporting, which improved transparency and helped achieve 155% of the plan in January
+- Handled large datasets in Google Sheets using advanced formulas, pivot tables, and visualizations
 
-**Industrial Data Analyst Intern @ Nornickel' Sputnik LLC (_August 2024 - October 2024_)**
-- Crеated reports on the efficiency of crushing plants, due to the automation of data the accuracy of reports was increased by 17%
-- Designed a model to predict probable failures or technical issues using historical data, achieving 96% accuracy in predicting failures
-- Developed predictive models for warehouse maintenance scheduling, reducing unscheduled downtime by 12%
-- Reducеd maintenance expenditures by 18% by analyzing and optimizing equipment maintenance costs
-- Built interactive management dashboards that showed important metrics, resulting in a 25% increase in decision-making speed
+**Industrial Data Analyst (Internship) @ Nornickel' Sputnik LLC (_August 2024 - October 2024_)**
+- Built reports on crushing plant efficiency; automation increased reporting accuracy by 17%
+- Designed a failure prediction model based on historical data, reaching 96% accuracy
+- Analyzed repair frequency and duration, optimizing scheduling to reduce downtime by 7%
+- Created predictive models for warehouse maintenance, cutting unscheduled downtime by 12%
+- Reduced maintenance costs by 18% through in-depth cost analysis and optimization
+- Developed interactive dashboards for management, improving decision speed by 25%
 
 **Branch Director @ Kaz Black Star LLP (_January 2021 - September 2023_)**
-- Conducted regular analysis of sales and customer activity, identified growth points and developed solutions that increased revenue by 13% in the first year and by 17% in the second
-- Created and maintained analytical reports on key indicators (revenue, average bill, traffic, product losses), optimized reporting processes
-- Developed a system for monitoring balances and orders, which allowed to reduce product write-offs by 25%
-- Analyzed customer feedback, identified the causes of dissatisfaction, thereby reducing the number of complaints by 30% and in creasing the satisfaction index from
-70% to 95%
-- Developed KPIs for the team, analyzed the implementation of plans and formed recommendations for improving the work of the branch
+- Analyzed sales and customer activity, implementing growth strategies that increased revenue by 13% in Y1 and 17% in Y2
+- Built and maintained reports on key metrics (revenue, average check, traffic, shrinkage), streamlining reporting processes
+- Created a stock monitoring and ordering system, reducing product losses by 25%
+- Analyzed customer feedback and reduced complaints by 30%, increasing satisfaction index from 70% to 95%
+- Assessed loyalty program performance and introduced improvements to enhance customer retention
+- Defined and tracked team KPIs, provided insights to optimize performance
 
 ## Projects
 ### "Research and optimization of delivery processes based on the analysis of logistic data"
