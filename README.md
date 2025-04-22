@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst|Data Scientist
 
 ## Skills
 - Data Manipulation and Processing: Python (Pandas, NumPy), SQL (DML, DDL, CTE, JOINs), Excel, Google Sheets
