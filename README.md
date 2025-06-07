@@ -15,7 +15,7 @@
 - BSc Logictics | Eurasian National University (_June 2022_)
 
 ## Work Experience
-**Sales Analyst @ Databoom LLP (_June 2024 - Present_)**
+**Sales Analyst @ Databoom LLP (_August 2024 - Present_)**
 - Analyzed the sales funnel and key metrics (conversion, average check, LTV, CAC), optimized the customer interaction strategy
 - Automated reports in Google Sheets and AMO CRM, set up dashboards to track the performance of managers
 - Built a transaction tracking system that increased lead-to-sale conversion by 32%
