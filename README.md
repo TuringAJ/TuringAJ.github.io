@@ -7,6 +7,7 @@
 - Machine Learning: Regression, Clustering (Scikit-learn, TensorFlow)
 - Model Deployment: Streamlit, Flask
 - BI and Reporting: Power BI, Tableau, DataLens
+- CRM: amoCRM, Bitrix24
 - Strong Communication and Team Collaboration
 
 ## Education						       		
@@ -14,7 +15,7 @@
 - BSc Logictics | Eurasian National University (_June 2022_)
 
 ## Work Experience
-**Sales Analyst @ Databoom LLP (_June 2022 - Present_)**
+**Sales Analyst @ Databoom LLP (_June 2024 - Present_)**
 - Analyzed the sales funnel and key metrics (conversion, average check, LTV, CAC), optimized the customer interaction strategy
 - Automated reports in Google Sheets and AMO CRM, set up dashboards to track the performance of managers
 - Built a transaction tracking system that increased lead-to-sale conversion by 32%
