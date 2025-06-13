@@ -1,13 +1,14 @@
-# Data Analyst|Data Scientist
+# Strategic Engineer | Data Science | Sales
 
 ## Skills
 - Data Manipulation and Processing: Python (Pandas, NumPy), SQL (DML, DDL, CTE, JOINs), Excel, Google Sheets
-- Data Visualization: Matplotlib, Seaborn
+- Data Visualization: Matplotlib, Seaborn, Plotly
 - Statistical Analysis (Descriptive, Hypothesis testing, A/B testing)
 - Machine Learning: Regression, Clustering (Scikit-learn, TensorFlow)
+- Graph Analytics: PyTorch Geometric, NetworkX
 - Model Deployment: Streamlit, Flask
 - BI and Reporting: Power BI, Tableau, DataLens
-- CRM: amoCRM, Bitrix24
+- CRM: amoCRM, Bitrix24, Zoho
 - Strong Communication and Team Collaboration
 
 ## Education						       		
@@ -15,16 +16,15 @@
 - BSc Logictics | Eurasian National University (_June 2022_)
 
 ## Work Experience
-**Sales Analyst @ Databoom LLP (_August 2024 - Present_)**
+**Sales Strategy Specialist @ Databoom LLP (_August 2024 - Present_)**
+- Managed cold, warm, and hot leads, overseeing the entire sales cycle from initial contact to closing the deal
 - Analyzed the sales funnel and key metrics (conversion, average check, LTV, CAC), optimized the customer interaction strategy
-- Automated reports in Google Sheets and AMO CRM, set up dashboards to track the performance of managers
+- Assessed marketing channel effectiveness and identified bottlenecks, providing actionable improvements
+- Enhanced the average purchase value by 15% through upselling strategies
 - Built a transaction tracking system that increased lead-to-sale conversion by 32%
 - Developed customer segmentation based on purchasing behavior, increasing average check by 15% through personalized offers
-- Assessed marketing channel effectiveness and identified bottlenecks, providing actionable improvements
-- Implemented sales plan performance reporting, which improved transparency and helped achieve 155% of the plan in January
-- Handled large datasets in Google Sheets using advanced formulas, pivot tables, and visualizations
 
-**Industrial Data Analyst (Internship) @ Nornickel' Sputnik LLC (_August 2024 - October 2024_)**
+**Operations Analytics Intern (Internship) @ Nornickel' Sputnik LLC (_August 2024 - October 2024_)**
 - Built reports on crushing plant efficiency; automation increased reporting accuracy by 17%
 - Designed a failure prediction model based on historical data, reaching 96% accuracy
 - Analyzed repair frequency and duration, optimizing scheduling to reduce downtime by 7%
