@@ -1,4 +1,4 @@
-# Strategic Engineer | Data Science | Sales
+# Strategic Engineer | ML | Sales
 
 ## Skills
 - Data Manipulation and Processing: Python (Pandas, NumPy), SQL (DML, DDL, CTE, JOINs), Excel, Google Sheets
